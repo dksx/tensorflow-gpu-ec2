@@ -2,7 +2,7 @@
   <img src="https://d20vrrgs8k4bvw.cloudfront.net/images/courses/logos/logo-color-tensorflow.png" width="300">
 </h3>
 
-## Install tensorflow-gpu (v2.2) on a Tesla ec2 instance in AWS
+### Install tensorflow-gpu (v2.2) on a Tesla ec2 instance in AWS
 
 * #### [Install Docker engine](https://docs.docker.com/engine/install/ubuntu/)
 ```
