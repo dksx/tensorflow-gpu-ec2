@@ -3,7 +3,6 @@
 </h3>
 
 ## Install tensorflow-gpu on a Tesla ec2 in AWS
-****
 
 * #### [Install Docker engine](https://docs.docker.com/engine/install/ubuntu/)
 ```
